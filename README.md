@@ -6,12 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **php,reactnative**                                                                    ![animation](https://github.com/ShravanDalavi/ShravanDalavi/assets/172488772/82108557-2fb6-4670-a24b-4d0519d3b065)
+- 🌱 I’m currently learning **php,reactnative**                                                                    
 
 - 💬 Ask me about **react ,photoshop**
 
 - 📫 How to reach me **shravandalavi137@gmail.com** 
 
+![animation](https://github.com/ShravanDalavi/ShravanDalavi/assets/172488772/ccec3f2b-e318-42cc-a2f7-b327de467a84)
 
 
 <h3 align="left">Languages and Tools:</h3>
