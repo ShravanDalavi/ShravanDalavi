@@ -24,3 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravandalavi&show_icons=true&locale=en&layout=compact" alt="shravandalavi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravandalavi&" alt="shravandalavi" /></p>
+footer.svg
