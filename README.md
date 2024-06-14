@@ -80,7 +80,7 @@ svg {
 <svg height="30" width="200" xmlns:xlink="http://www.w3.org/1999/xlink">
   <a xlink:href="https://github.com/Trilokia" target="_top">
   <text y="39" font-family="Times, serif" fill="grey" font-size="1px">
-    @Trilokia
+   
   </text>
   </a>
 </svg>
