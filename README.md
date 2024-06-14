@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shravan Dalavi</h1>
-![line](https://github.com/ShravanDalavi/ShravanDalavi/assets/172488772/d40dfa08-41cd-4004-92e6-71fe7016ed42)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
