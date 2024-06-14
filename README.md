@@ -1,5 +1,3 @@
-![image](https://github.com/ShravanDalavi/ShravanDalavi/assets/172488772/c6337527-d176-44f3-ba23-d32efdbd1315)
-
 <h1 align="center">Hi 👋, I'm Shravan Dalavi</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
