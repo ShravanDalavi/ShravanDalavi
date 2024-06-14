@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **php,reactnative**
 
+- 💬 Ask me about **react ,photoshop**
+
 - 📫 How to reach me **shravandalavi137@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
