@@ -1,3 +1,4 @@
+![shravan dalavi](Bottom_up.svg)
 <h1 align="center">Hi 👋, I'm Shravan Dalavi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
