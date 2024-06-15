@@ -29,6 +29,8 @@
 <img src="line.gif">             
 </p>
 
+![animation](https://github.com/ShravanDalavi/ShravanDalavi/assets/172488772/daf345fc-da5f-4016-beec-04bcdb04d93a)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravandalavi&show_icons=true&locale=en&layout=compact" alt="shravandalavi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravandalavi&" alt="shravandalavi" /></p>
