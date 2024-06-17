@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shravandalavi137@gmail.com**
 
-- **Great! If you need any more help or have other questions, feel free to ask.**
+
   
 <p  align="center">
 <img src="line.gif">             
