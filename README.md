@@ -10,6 +10,7 @@
 - 💬 Ask me about **react ,photoshop**
 
 - 📫 How to reach me **shravandalavi137@gmail.com**
+  
 <p  align="center">
 <img src="line.gif">             
 </p>
