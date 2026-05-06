@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **reactnative**
-
-- 💬 Ask me about **react ,photoshop**
-
-- 📫 How to reach me **shravandalavi137@gmail.com**
+* 🌱 Currently learning **React Native & Backend Development**
+* 💬 Ask me about **React, JavaScript, Web Development, Photoshop**
+* 📫 Email: **[shravandalavi137@gmail.com](mailto:shravandalavi137@gmail.com)**
   
 <p  align="center">
 <img src="line.gif">             
