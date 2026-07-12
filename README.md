@@ -68,11 +68,33 @@
 
 ![animation](https://github.com/ShravanDalavi/ShravanDalavi/assets/172488772/daf345fc-da5f-4016-beec-04bcdb04d93a)
 
-<p  align="center">
-<img src="line.gif">             
+<!-- GitHub Stats -->
+
+<p align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShravanDalavi&show_icons=true&theme=tokyonight"
+  alt="GitHub Stats"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ShravanDalavi&theme=tokyonight"
+  alt="GitHub Streak"
+/>
+
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravandalavi&show_icons=true&locale=en&layout=compact" alt="shravandalavi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravandalavi&" alt="shravandalavi" /></p>
+<!-- Top Languages -->
 
+<p align="center">
+
+<img
+  width="42%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShravanDalavi&layout=compact&theme=tokyonight"
+  alt="Top Languages"
+/>
+
+</p>
 ![shravan dalavi](footer.svg)
