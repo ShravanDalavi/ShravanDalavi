@@ -1,0 +1,40 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0D1117"/>
+<stop offset="100%" stop-color="#1B2430"/>
+</linearGradient>
+<linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#58A6FF"/>
+<stop offset="100%" stop-color="#00E5FF"/>
+</linearGradient>
+<linearGradient id="btn" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#238636"/>
+<stop offset="100%" stop-color="#2EA043"/>
+</linearGradient>
+</defs>
+
+<rect width="1600" height="500" fill="url(#bg)"/>
+<circle cx="1450" cy="90" r="120" fill="#58A6FF" opacity=".08"/>
+<circle cx="170" cy="420" r="170" fill="#00E5FF" opacity=".06"/>
+
+<g opacity=".06" stroke="#58A6FF">
+<path d="M0 100H1600"/><path d="M0 200H1600"/><path d="M0 300H1600"/><path d="M0 400H1600"/>
+<path d="M200 0V500"/><path d="M400 0V500"/><path d="M600 0V500"/><path d="M800 0V500"/><path d="M1000 0V500"/><path d="M1200 0V500"/><path d="M1400 0V500"/>
+</g>
+
+<text x="90" y="165" font-family="Segoe UI,Arial,sans-serif" font-size="72" font-weight="700" fill="url(#title)">Shravan Dalavi</text>
+<text x="90" y="225" font-family="Segoe UI,Arial,sans-serif" font-size="34" fill="#E6EDF3">Full Stack Developer</text>
+<text x="90" y="275" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#9CA3AF">Building clean &amp; modern web experiences.</text>
+
+<rect x="90" y="325" width="200" height="52" rx="12" fill="url(#btn)"/>
+<text x="190" y="359" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="white">Available</text>
+
+<rect x="980" y="90" width="500" height="260" rx="20" fill="#111827" stroke="#30363D"/>
+<text x="1025" y="145" font-family="Consolas,monospace" font-size="28" fill="#58A6FF">&lt;/&gt;</text>
+<text x="1025" y="195" font-family="Consolas,monospace" font-size="24" fill="#79C0FF">React • Node.js • Python</text>
+<text x="1025" y="245" font-family="Consolas,monospace" font-size="24" fill="#79C0FF">JavaScript • MongoDB</text>
+<text x="1025" y="295" font-family="Consolas,monospace" font-size="24" fill="#79C0FF">Open Source</text>
+
+<path d="M0 455 C300 390 500 500 800 445 C1100 390 1300 500 1600 430 L1600 500 L0 500Z" fill="#161B22"/>
+</svg>
