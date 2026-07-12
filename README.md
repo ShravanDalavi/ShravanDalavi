@@ -68,7 +68,11 @@
 
 ![animation](https://github.com/ShravanDalavi/ShravanDalavi/assets/172488772/daf345fc-da5f-4016-beec-04bcdb04d93a)
 
-<!-- GitHub Stats -->
+<p  align="center">
+<img src="line.gif">             
+</p>
+
+## GitHub Stats 
 
 <p align="center">
 
@@ -86,7 +90,7 @@
 
 </p>
 
-<!-- Top Languages -->
+## Top Languages 
 
 <p align="center">
 
@@ -94,6 +98,19 @@
   width="42%"
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShravanDalavi&layout=compact&theme=tokyonight"
   alt="Top Languages"
+/>
+
+</p>
+
+<h2 align="center">
+📈 GitHub Contribution Activity
+</h2>
+
+<p align="center">
+
+<img
+width="98%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=ShravanDalavi&theme=github-dark&bg_color=000000&hide_border=true&area=true&radius=16"
 />
 
 </p>
