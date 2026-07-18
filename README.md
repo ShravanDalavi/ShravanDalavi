@@ -5,10 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=shravandalavi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+## 🚀 About Me
 
-* 🌱 Currently learning **React Native & Backend Development**
-* 💬 Ask me about **React, JavaScript, Web Development, Photoshop**
-* 📫 Email: **[shravandalavi137@gmail.com](mailto:shravandalavi137@gmail.com)**
+- 🚀 Full Stack Developer turning ideas into fast, scalable, and intuitive web applications.
+- 💡 Passionate about clean code, modern technologies, and continuous learning.
+- 🌱 Exploring **React Native, Backend Development, and AI**.
+- 📫 **shravandalavi137@gmail.com**
   
 <p  align="center">
 <img src="line.gif">             
