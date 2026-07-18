@@ -66,12 +66,6 @@
 <img src="line.gif">             
 </p>
 
-![animation](https://github.com/ShravanDalavi/ShravanDalavi/assets/172488772/daf345fc-da5f-4016-beec-04bcdb04d93a)
-
-<p  align="center">
-<img src="line.gif">             
-</p>
-
 ## GitHub Stats 
 
 <p align="center">
